@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B69619-2630-49EE-9F2B-894564ED0E09}|course10 OOP Overriding\\course10 OOP Overriding.vcxproj|C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\course10 OOP Overriding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3B69619-2630-49EE-9F2B-894564ED0E09}|course10 OOP Overriding\\course10 OOP Overriding.vcxproj|solutionrelative:course10 OOP Overriding\\course10 OOP Overriding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B69619-2630-49EE-9F2B-894564ED0E09}|course10 OOP Overriding\\course10 OOP Overriding.vcxproj|C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\clsEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3B69619-2630-49EE-9F2B-894564ED0E09}|course10 OOP Overriding\\course10 OOP Overriding.vcxproj|solutionrelative:course10 OOP Overriding\\clsEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B69619-2630-49EE-9F2B-894564ED0E09}|course10 OOP Overriding\\course10 OOP Overriding.vcxproj|C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3B69619-2630-49EE-9F2B-894564ED0E09}|course10 OOP Overriding\\course10 OOP Overriding.vcxproj|solutionrelative:course10 OOP Overriding\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsEmployee.h",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\clsEmployee.h",
+              "RelativeDocumentMoniker": "course10 OOP Overriding\\clsEmployee.h",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\clsEmployee.h*",
+              "RelativeToolTip": "course10 OOP Overriding\\clsEmployee.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T15:00:49.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\clsPerson.h",
+              "RelativeDocumentMoniker": "course10 OOP Overriding\\clsPerson.h",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\clsPerson.h*",
+              "RelativeToolTip": "course10 OOP Overriding\\clsPerson.h*",
+              "ViewState": "AgIAACoAAAAAmJmZmZkRwAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T14:58:19.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "course10 OOP Overriding.cpp",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\course10 OOP Overriding.cpp",
+              "RelativeDocumentMoniker": "course10 OOP Overriding\\course10 OOP Overriding.cpp",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\course10 OOP Overriding\\course10 OOP Overriding\\course10 OOP Overriding.cpp*",
+              "RelativeToolTip": "course10 OOP Overriding\\course10 OOP Overriding.cpp*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T21:51:52.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

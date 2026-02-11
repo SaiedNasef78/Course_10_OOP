@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SH\\source\\repos\\Course 10 OOP  UbCastin And DownCasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9AB397-5AA9-4A31-8237-BF513C2DBA37}|Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.vcxproj|C:\\Users\\SH\\source\\repos\\Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED9AB397-5AA9-4A31-8237-BF513C2DBA37}|Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.vcxproj|solutionrelative:Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course 10 OOP  UbCastin And DownCasting.cpp",
+              "DocumentMoniker": "C:\\Users\\SH\\source\\repos\\Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.cpp",
+              "RelativeDocumentMoniker": "Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.cpp",
+              "ToolTip": "C:\\Users\\SH\\source\\repos\\Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.cpp",
+              "RelativeToolTip": "Course 10 OOP  UbCastin And DownCasting\\Course 10 OOP  UbCastin And DownCasting.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T20:50:55.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

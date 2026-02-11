@@ -1,0 +1,28 @@
+.vs/
+x64/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.db
+*.opendb
+*.suo
+*.sln
+
+# Build results
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+
+# Cache / temp
+*.tmp
+*.cache
+*.vsidx
+*.VC.db
+*.ipch
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
